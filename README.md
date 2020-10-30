@@ -2,6 +2,6 @@
 3D animation using mouse events using JavaScript. 
 
 
-<img align="right" alt="GIF" src="https://github.com/arishma108/3D-Card-Effect/blob/main/nike.gif?raw=true" width="0" height="0" />
+<img align="right" alt="GIF" src="https://github.com/arishma108/3D-Card-Effect/blob/main/nike.gif?raw=true" width="640" height="360" />
 
 
